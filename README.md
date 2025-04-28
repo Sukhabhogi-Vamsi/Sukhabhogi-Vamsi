@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sukhabhogi-Vamsi
-- 👀 I’m interested in Java Technologies
-- 🌱 I’m currently working at TCS
+- 👀 I have a strong interest in Java technologies.
+- 🌱 I am currently working as a Java Developer at Tata Consultancy Services
 - 📫 How to reach me vamsisukhabhogi@gmail.com
